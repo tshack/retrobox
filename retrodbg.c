@@ -1,13 +1,26 @@
-/*******************************************************
- *    Filename: 6502_test.c                            *
- *      Author: James A. Shackleford (tshack@ieee.org) *
- *        Date: Sept 20th, 2010                        *
- *     License: GPL                                    *
- *******************************************************/
+/*  This file is part of retrobox
+    Copyright (C) 2010  Jamse A. Shackleford
+
+    retrobox is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+*/
+
+// file created: Sept 20th, 2010
 
 // TODO: Rewrite command input for debugger prompt.  Single
-//       character commands is... sad.  Also, need watch
-//       and breakpoint lists...
+//       character commands are... sad.  Also, need watch
+//       and breakpoint lists. Hardcoding breakpoints is
+//       also... sad.
 
 #include <stdlib.h>
 #include <stdio.h>
