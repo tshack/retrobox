@@ -1,5 +1,5 @@
 /*  This file is part of retrobox
-    Copyright (C) 2010  Jamse A. Shackleford
+    Copyright (C) 2010  James A. Shackleford
 
     retrobox is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
